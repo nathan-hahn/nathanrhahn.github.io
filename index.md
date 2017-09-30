@@ -8,4 +8,5 @@ I am currently an NSF Graduate Research Fellow with Dr. George Wittemyer in the 
 ### Contact
 
 Email: nhahn@rams.colostate.edu
-Twitter: @nathanrhahn
+<br>
+Twitter: [@nathanrhahn](https://twitter.com/nathanrhahn)
