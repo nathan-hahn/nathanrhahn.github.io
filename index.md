@@ -11,7 +11,7 @@ The world’s megafauna, especially in Africa, are undergoing a rapid loss of ha
 
 How can we create affordable and efficient force multipliers that work in tandem with rangers and communities to protect wildlife and people in harsh field conditions? 
 
-My research is broad, but I am focused on three main categories: 
+My research is focused on three main categories: 
 - Assessing technologies for anti-poaching and human-elephant conflict 
 - Investigating elephant movement behavior and feeding to inform landscape planning in the Mara-Serengeti Ecosystem
 - Researching drivers of conservation success and failure, in the context of both technology and park management
