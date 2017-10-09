@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+
+# Themes are encouraged to use these universal variables
+# so be sure to set them if your theme uses them.
+#
+title : simple site
+author :
+  name : Karl Broman
+  email : kbroman@gmail.com
+  github : kbroman
+  twitter : kwbroman
+  feedburner : nil
+
+# NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
+production_url : http://kbroman.github.io/simple_site
