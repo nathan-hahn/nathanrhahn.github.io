@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 
+# Exclude these pages from the visible website
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
