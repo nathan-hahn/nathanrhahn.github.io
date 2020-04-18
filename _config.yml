@@ -3,16 +3,30 @@ theme: jekyll-theme-cayman
 # Exclude these pages from the visible website
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 
-# Themes are encouraged to use these universal variables
-# so be sure to set them if your theme uses them.
-#
+# Setup
 title : Nathan Hahn
-author :
+tag: 'PhD Candidate, Colorado State University'
+description:      'Conservation & Technology'
+url:              http://nathan-hahn.github.io
+baseurl:          https://nathan-hahn.github.io
+
+
+
+author : Nathan Hahn
   name : Nathan Hahn
-  email : nhahn@resolv.org
-  github : nathanrhahn
-  twitter : nathanrhahn
+  email : nhahn@colostate.edu
+  github : nathanhahn35
+  twitter : nathanhahn35
   feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 production_url : https://nathanrhahn.github.io/
+
+paginate:         5
+
+github:
+  repo:           https://github.com/nathanhahn53/nathanrhahn.github.io
+
+collections:
+- publications
+- blog
